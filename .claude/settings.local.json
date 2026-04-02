@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh:*)",
+      "Skill(keybindings-help)",
+      "Bash(claude --version)",
+      "Bash(npm view:*)",
+      "WebSearch"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "claude-flow"
+  ],
+  "prefersReducedMotion": false,
+  "enableAllProjectMcpServers": true
+}
